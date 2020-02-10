@@ -1,4 +1,9 @@
-def main:
+def blessing():
+    print('祝大家新年快乐')
+
+
+def main():
+    blessing()
     print('hello, GitHub Workflow')
 
 
