@@ -1,5 +1,5 @@
 def main:
-    print('hello, GitHub Workflow')
+    print('Hello, GitHub Workflow')
 
 
 if __name__ == '__main__':
