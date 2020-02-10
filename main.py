@@ -5,7 +5,6 @@ def blessing():
 def main():
     blessing()
     print('Hello, GitHub Workflow')
-
-
+   
 if __name__ == '__main__':
     main()
